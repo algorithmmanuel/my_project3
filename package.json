@@ -19,7 +19,7 @@
         "viber-bot": "^1.0.16",
         "winston": "^3.3.3",
         "winston-console-format": "^1.0.8",
-        "winston-daily-rotate-file": "^4.5.0"
+        "winston-daily-rotate-file": "^4.7.1"
 
   },
   "devDependencies": {
